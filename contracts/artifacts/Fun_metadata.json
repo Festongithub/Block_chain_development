@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/FundMe.sol": "Name"
+			"contracts/FundMe.sol": "Fun"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/FundMe.sol": {
-			"keccak256": "0xde602c7ddb332f8018f84efa3cfa5d4fe6cadd90826c0533a819384b672aa646",
+			"keccak256": "0xcc6c3398c0b1dae999145e303cda942fb80cd1e51594093b444fc59d68ca7b3a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6355e89e070af1d1d00abf2622f94739f59f71e95a2178ec118d767200437e4f",
-				"dweb:/ipfs/QmWmaEKMz9yxbszYPy7io1gtLpkVQjuqUbtLXeUjTWMCmk"
+				"bzz-raw://dc86821dc6f6fead72d4e448c2cd7e0f3c43be2eaa284587fe701b7ea7dd3a89",
+				"dweb:/ipfs/QmNmkaK5WQkB4bavTzKukCEqBXFEh2pnp5YQ11BGZeu5cu"
 			]
 		}
 	},
