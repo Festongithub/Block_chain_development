@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.24;
 
 contract  SimpleStorage {
@@ -27,11 +28,11 @@ contract  SimpleStorage {
     // Person public Trump = Person({favoriteNumber:1, name:"Trump"});
     // Person public Friend = Person({favoriteNumber:3, name:"Mariah"});
 
-    function store(uint256 _favoriteNumber) public {
+    function store(uint256 _favoriteNumber) public virtual {
         myfavoriteNumber = _favoriteNumber;
     }
 
-    function multiply(uint256 _newNumber) public {
+    function multiply(uint256 _newNumber) public virtual  {
         myfavoriteNumber = myfavoriteNumber * _newNumber;
     }
 
@@ -48,3 +49,6 @@ contract  SimpleStorage {
    }
 
 }
+
+contract SimpleStorage2{}
+contract  SimpleStorage3 {}

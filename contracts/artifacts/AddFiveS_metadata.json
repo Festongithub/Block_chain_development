@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -18,9 +18,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/StorageFactory.sol": "S"
+			"contracts/AddFiveStorage.sol": "AddFiveS"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/StorageFactory.sol": {
-			"keccak256": "0xca55015d9405287b17a98196aca93fb9bce362d000e64d833542edac13eb57e3",
+		"contracts/AddFiveStorage.sol": {
+			"keccak256": "0x1c698a9d66ce75e76d68e3c6f09aa39668a7ed049534de44289079a74d1a45df",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61e5add64c9195cb7093cad85497c84e2d442eedf19d923852fa0baea5ecd8e8",
-				"dweb:/ipfs/QmRAcK3NhCnUgEuK5TV9D7sYLfftFwqcDff6HQ8y7VVR1Y"
+				"bzz-raw://cc9b0446cdc1425e761c5f47002d9124a6fff40c245b6c9fff25ca6ea3e0d18f",
+				"dweb:/ipfs/QmRK6FaCbeTu2u6iq4jhSyqZRukkrwavGfsv6xFxuUte7h"
 			]
 		}
 	},
