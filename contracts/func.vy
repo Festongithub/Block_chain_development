@@ -1,5 +1,6 @@
 # pragma version 0.4.0
-
+# @pure --> do not read any state and global variable
+# @view --> read state and global variables
 
 @external
 @pure 
